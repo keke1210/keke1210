@@ -5,7 +5,3 @@
 [![](https://img.shields.io/badge/-Skerdi%20Berberi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/skerdiberberi)](https://www.linkedin.com/in/skerdiberberi)
 
 I'm software developer focused on .NET 
-
-## 𝗦𝘁𝗮𝘁𝘀
-
-![keke1210's github stats](https://github-readme-stats.vercel.app/api?username=keke1210&show_icons=true&theme=dracula)
